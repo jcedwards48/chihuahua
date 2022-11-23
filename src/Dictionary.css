@@ -1,5 +1,19 @@
-.word {
+.Dictionary word {
   font-size: 20px;
   font-style: italic;
   color: brown;
+}
+
+.Dictionary section {
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 10px 10px rgb(0 0 0 / 10%);
+  margin: 20px 0;
+}
+.Dictionary input {
+  width: 100%;
+  padding: 6px 4px;
+  border-radius: 6px;
+  color: rgb(114, 89, 89);
 }

@@ -1,3 +1,11 @@
+body {
+  background: bisque;
+}
+
+a {
+  color: #614dc9;
+}
+
 .App-logo {
   max-width: 100px;
   display: block;
