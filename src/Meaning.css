@@ -5,8 +5,17 @@
   text-transform: capitalize;
 }
 
+.Meaning .define {
+  color: rgb(51, 18, 18);
+  font-style: normal;
+  font-weight: 200px;
+  margin-top: 10px;
+  margin-bottom: 7px;
+}
+
 .Meaning .example {
   color: red;
   font-style: italic;
-  margin-top: 10px;
+  font-weight: 200px;
+  margin-bottom: 20px;
 }
