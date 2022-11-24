@@ -1,5 +1,12 @@
-.Meaning {
-  margin-top: 25px;
-  font-style: italic;
+.Meaning h3 {
+  font-size: 20px;
+  font-weight: bold;
   color: rgb(77, 56, 30);
+  text-transform: capitalize;
+}
+
+.Meaning .example {
+  color: red;
+  font-style: italic;
+  margin-top: 10px;
 }
