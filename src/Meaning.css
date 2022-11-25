@@ -7,8 +7,8 @@
 
 .Meaning .define {
   color: rgb(51, 18, 18);
-  font-style: normal;
-  font-weight: 200px;
+  font-style: bold;
+  font-weight: bold;
   margin-top: 10px;
   margin-bottom: 7px;
 }
@@ -16,6 +16,13 @@
 .Meaning .example {
   color: red;
   font-style: italic;
-  font-weight: 200px;
+  font-weight: 400px;
   margin-bottom: 20px;
+}
+
+.Meaning .synonyms {
+  color: rgb(51, 4, 4);
+  font-style: bold;
+  text-decoration: underline;
+  margin-top: 10px;
 }
