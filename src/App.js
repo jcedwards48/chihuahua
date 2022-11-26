@@ -1,3 +1,4 @@
+import React from "react";
 import logo from "./Find A Word.png";
 
 import "./App.css";
@@ -14,7 +15,10 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by Jeanne C. Edwards</small>
+          <small>
+            This project was coded by Jeanne C. Edwards and is Open-Sourced on
+            Github and hosted on Netlify
+          </small>
         </footer>
       </div>
     </div>
