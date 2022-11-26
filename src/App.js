@@ -16,8 +16,26 @@ export default function App() {
         </main>
         <footer className="App-footer">
           <small>
-            This project was coded by Jeanne C. Edwards and is Open-Sourced on
-            Github and hosted on Netlify
+            This project was coded by Jeanne C. Edwards and is{" "}
+            <a
+              className="App-link"
+              href="https://github.com/jcedwards48/chihuahua"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {" "}
+              Open-Sourced on GitHub
+            </a>{" "}
+            and
+            <a
+              className="App-link"
+              href="https://celebrated-sunflower-714687.netlify.app"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {" "}
+              Hosted on Netlify
+            </a>
           </small>
         </footer>
       </div>
